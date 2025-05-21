@@ -1,0 +1,3 @@
+Entity,Code,Year,Allision/collision causes,Fire/explosion causes,Hull failure causes,Unknown causes,Equipment failure causes,Grounding causes,Other causes
+Large (>700t),,2022,140,54,60,13,19,150,34
+Medium (7-700t),,2022,367,51,101,207,214,271,180
